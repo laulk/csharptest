@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace tutorials
 {
     public class Program{
-        public static void Main()
+        public static void Main()   //Adds multiple datatypes to <words> list & prints the results
         {
             List<Word> words = new List<Word>
             {
@@ -15,11 +15,12 @@ namespace tutorials
 
             foreach (var word in words)
              Console.WriteLine("Word: {0} ID: {1}, Learned: {2}, Number of Times learned: {3}", word.theWord, word.ID, word.hasAlreadyCollected, word.numberOfTimesLearned);
-            //words.ForEach(Console.WriteLine);
+            //to check if appended list with multiple data types is accepted
+
         }
     }
 
-
+    //Word class defines the word, the ID which is also the WordSticker, bool for "learnt"or not and number of times learned
     public class Word
     {
         public string theWord { get; set; }
