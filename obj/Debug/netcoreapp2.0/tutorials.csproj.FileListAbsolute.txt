@@ -1,0 +1,11 @@
+/Users/llk_mb15/Projects/tutorials/tutorials/bin/Debug/netcoreapp2.0/tutorials.deps.json
+/Users/llk_mb15/Projects/tutorials/tutorials/bin/Debug/netcoreapp2.0/tutorials.runtimeconfig.json
+/Users/llk_mb15/Projects/tutorials/tutorials/bin/Debug/netcoreapp2.0/tutorials.runtimeconfig.dev.json
+/Users/llk_mb15/Projects/tutorials/tutorials/bin/Debug/netcoreapp2.0/tutorials.dll
+/Users/llk_mb15/Projects/tutorials/tutorials/bin/Debug/netcoreapp2.0/tutorials.pdb
+/Users/llk_mb15/Projects/tutorials/tutorials/obj/Debug/netcoreapp2.0/tutorials.csprojResolveAssemblyReference.cache
+/Users/llk_mb15/Projects/tutorials/tutorials/obj/Debug/netcoreapp2.0/tutorials.csproj.CoreCompileInputs.cache
+/Users/llk_mb15/Projects/tutorials/tutorials/obj/Debug/netcoreapp2.0/tutorials.AssemblyInfoInputs.cache
+/Users/llk_mb15/Projects/tutorials/tutorials/obj/Debug/netcoreapp2.0/tutorials.AssemblyInfo.cs
+/Users/llk_mb15/Projects/tutorials/tutorials/obj/Debug/netcoreapp2.0/tutorials.dll
+/Users/llk_mb15/Projects/tutorials/tutorials/obj/Debug/netcoreapp2.0/tutorials.pdb
